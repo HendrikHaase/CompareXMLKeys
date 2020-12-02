@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "CompareXMLKeys": {
+      "commandName": "Project",
+      "commandLineArgs": "Retrofit-de-DE.xml Retrofit-en-US.xml",
+      "workingDirectory": "C:\\Users\\rando\\Desktop\\git\\FormelD eApps\\eApps.Retrofit\\Retrofit.Core\\Localization\\SourceFiles"
+    }
+  }
+}
